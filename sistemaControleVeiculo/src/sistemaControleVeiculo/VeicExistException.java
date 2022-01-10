@@ -1,0 +1,7 @@
+package sistemaControleVeiculo;
+
+public class VeicExistException extends Exception {
+	public VeicExistException() {
+		
+	}
+}
